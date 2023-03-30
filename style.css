@@ -29,3 +29,42 @@ h1{
     text-align: center;
     font-family: monospace;
 }
+
+.hobby1 {
+    text-align: center;
+    border: 5px solid black;
+}
+
+.hobby2 {
+    text-align: center;
+    border: 5px solid black;
+}
+
+.hobby3 {
+    text-align: center;
+    border: 5px solid black;
+}
+
+.project1 {
+    border: 5px solid black;
+}
+
+.project1name {
+    font-family: monospace;
+}
+
+.project2name {
+    font-family: monospace;
+}
+
+.project3name {
+    font-family: monospace;
+}
+
+.project2 {
+    border: 5px solid black;
+}
+
+.project3 {
+    border: 5px solid black;
+}
