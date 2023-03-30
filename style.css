@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+
+
+.name {
+    float: left;
+    padding-top: 15px;
+    font-size: 25px;
+    font-family: monospace;
+    padding-left: 40px;
+}
+
+.links {
+    float: left;
+    font-size: 25px;
+    font-family: monospace;
+    padding-top: 15px;
+    
+}
+
+.personalgoal {
+    text-align: center;
+    font-family: monospace;
+}
