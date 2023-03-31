@@ -35,6 +35,7 @@ h1{
     border: 5px solid black;
     width: 1000px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -56,19 +57,23 @@ h1{
 
 .hobbytitle1 {
     font-family: monospace;
+    font-size: 25px;
 }
 
 .hobbytitle2 {
     font-family: monospace;
+    font-size: 25px;
 }
 
 .hobbytitle3 {
     font-family: monospace;
+    font-size: 25px;
 }
 
 .project1 {
     border: 5px solid black;
     width: 1000px;
+    margin-top: 50px;
     
 }
 
@@ -100,6 +105,22 @@ body {
 
 .homepage {
     border: 5px solid black;
-    width: 1500px;
+    width: 1250px;
+    margin: auto;
+    margin-top: 100px;
     background-color: mediumaquamarine;
+    
+}
+
+.littlemebox {
+    border: 5px solid black;
+    width: 1000px;
+    margin: auto;
+    background-color: mediumaquamarine;
+}
+
+.littleme {
+    font-family: monospace;
+    text-align: center;
+    font-size: 25px;
 }
