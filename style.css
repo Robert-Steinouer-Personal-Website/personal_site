@@ -18,6 +18,7 @@ h1{
     font-family: monospace;
     padding-top: 15px;
     
+    
 }
 
 .personalgoal {
@@ -70,10 +71,17 @@ h1{
     font-size: 25px;
 }
 
+.projectt {
+    font-family: monospace;
+    font-size: 50px;
+    
+}
+
 .project1 {
     border: 5px solid black;
     width: 1000px;
-    margin-top: 50px;
+    margin-top: 60px;
+    margin-left: 40px;
     
 }
 
@@ -92,23 +100,29 @@ h1{
 .project2 {
     border: 5px solid black;
     width: 1000px;
+    margin-left: 200px;
+    margin-top: 50px;
 }
 
 .project3 {
     border: 5px solid black;
     width: 1000px;
+    margin-left: 400px;
+    margin-top: 50px;
 }
 
 body {
-    background-color: azure;
+    background-color: rgb(158, 199, 199);
 }
 
 .homepage {
-    border: 5px solid black;
-    width: 1250px;
+    border: 25px double black;
+    width: 1000px;
     margin: auto;
     margin-top: 100px;
     background-color: mediumaquamarine;
+    padding-top: 50px;
+    padding-bottom: 50px;
     
 }
 
