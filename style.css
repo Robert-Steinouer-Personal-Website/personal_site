@@ -33,20 +33,36 @@ h1{
 .hobby1 {
     text-align: center;
     border: 5px solid black;
+    width: 1000px;
 }
 
 .hobby2 {
     text-align: center;
     border: 5px solid black;
+    width: 1000px;
 }
 
 .hobby3 {
     text-align: center;
     border: 5px solid black;
+    width: 1000px;
+}
+
+.hobbytitle1 {
+    font-family: monospace;
+}
+
+.hobbytitle2 {
+    font-family: monospace;
+}
+
+.hobbytitle3 {
+    font-family: monospace;
 }
 
 .project1 {
     border: 5px solid black;
+    width: 1000px;
 }
 
 .project1name {
@@ -63,8 +79,14 @@ h1{
 
 .project2 {
     border: 5px solid black;
+    width: 1000px;
 }
 
 .project3 {
     border: 5px solid black;
+    width: 1000px;
+}
+
+body {
+    background-color: azure;
 }
