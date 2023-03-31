@@ -34,18 +34,24 @@ h1{
     text-align: center;
     border: 5px solid black;
     width: 1000px;
+    margin: auto;
+    background-color: mediumaquamarine;
 }
 
 .hobby2 {
     text-align: center;
     border: 5px solid black;
     width: 1000px;
+    margin: auto;
+    background-color: mediumaquamarine;
 }
 
 .hobby3 {
     text-align: center;
     border: 5px solid black;
     width: 1000px;
+    margin: auto;
+    background-color: mediumaquamarine;
 }
 
 .hobbytitle1 {
@@ -63,6 +69,7 @@ h1{
 .project1 {
     border: 5px solid black;
     width: 1000px;
+    
 }
 
 .project1name {
@@ -89,4 +96,10 @@ h1{
 
 body {
     background-color: azure;
+}
+
+.homepage {
+    border: 5px solid black;
+    width: 1500px;
+    background-color: mediumaquamarine;
 }
