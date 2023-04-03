@@ -78,7 +78,7 @@ h1{
 }
 
 .project1 {
-    border: 5px solid black;
+    border: 5px groove black;
     width: 850px;
     margin-top: 60px;
     margin-left: 40px;
@@ -88,24 +88,42 @@ h1{
 
 .zoo {
     
+    padding-left: 275px;
+    
+}
+
+.grocery {
+    padding-left: 275px;
+}
+
+.vault {
+    padding-left: 75px;
+}
+
+.portpara {
     padding-left: 25px;
+    font-family: monospace;
+    font-size: 25px
 }
 
 
 .project1name {
     font-family: monospace;
+    text-align: center;
 }
 
 .project2name {
     font-family: monospace;
+    text-align: center;
 }
 
 .project3name {
     font-family: monospace;
+    text-align: center;
 }
 
 .project2 {
-    border: 5px solid black;
+    border: 5px groove black;
     width: 800px;
     margin-left: 200px;
     margin-top: 50px;
@@ -113,7 +131,7 @@ h1{
 }
 
 .project3 {
-    border: 5px solid black;
+    border: 5px groove black;
     width: 800px;
     margin-left: 400px;
     margin-top: 50px;
