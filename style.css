@@ -155,3 +155,23 @@ body {
     text-align: center;
     font-size: 25px;
 }
+
+.container {
+    display: flex;
+    border: 15px double black;
+    background-color: mediumaquamarine;
+    font-family: monospace;
+}
+
+.vname {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.vemail {
+    padding-bottom: 10px;
+}
+
+.vmessages {
+    padding-bottom: 10px;
+}
