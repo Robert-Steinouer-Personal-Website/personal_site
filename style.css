@@ -17,8 +17,6 @@ h1{
     font-size: 25px;
     font-family: monospace;
     padding-top: 15px;
-    
-    
 }
 
 .personalgoal {
@@ -73,8 +71,7 @@ h1{
 
 .projectt {
     font-family: monospace;
-    font-size: 50px;
-    
+    font-size: 50px;   
 }
 
 .project1 {
@@ -82,14 +79,10 @@ h1{
     width: 850px;
     margin: auto;
     background-color: mediumaquamarine;
-    
-    
 }
 
 .zoo {
-    
     padding-left: 275px;
-    
 }
 
 .grocery {
@@ -127,14 +120,12 @@ h1{
     width: 800px;
     margin: auto;
     background-color: mediumaquamarine;
-    
 }
 
 .project3 {
     border: 5px groove black;
     width: 800px;
     margin: auto;
-
     background-color: mediumaquamarine;
 }
 
@@ -150,7 +141,6 @@ body {
     background-color: mediumaquamarine;
     padding-top: 50px;
     padding-bottom: 50px;
-    
 }
 
 .littlemebox {
@@ -164,4 +154,24 @@ body {
     font-family: monospace;
     text-align: center;
     font-size: 25px;
+}
+
+.container {
+    display: flex;
+    border: 15px double black;
+    background-color: mediumaquamarine;
+    font-family: monospace;
+}
+
+.vname {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.vemail {
+    padding-bottom: 10px;
+}
+
+.vmessages {
+    padding-bottom: 10px;
 }
