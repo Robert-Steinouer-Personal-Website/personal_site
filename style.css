@@ -69,6 +69,12 @@ h1{
     font-size: 25px;
 }
 
+.ap {
+    font-family: monospaces;
+    padding: 25px;
+    font-size: 25px;
+}
+
 .projectt {
     font-family: monospace;
     font-size: 50px;   
@@ -96,7 +102,7 @@ h1{
 .portpara {
     padding-left: 25px;
     font-family: monospace;
-    font-size: 25px
+    font-size: 25px;
 }
 
 
@@ -159,22 +165,33 @@ body {
 .container {
     display: flex;
     border: 15px double black;
-    margin: 150px;
+    margin: 100px;
     padding: 20px;
     background-color: mediumaquamarine;
     font-family: monospace;
     justify-content: center;
 }
 
+.contacth {
+    font-size: 30px;
+}
+
 .vname {
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 25px;
 }
 
 .vemail {
     padding-bottom: 10px;
+    font-size: 25px;
 }
 
 .vmessages {
     padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.submitb {
+    padding-top: 15px;
 }
