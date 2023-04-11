@@ -14,9 +14,16 @@ h1{
 
 .links {
     float: left;
+    position: relative;
     font-size: 25px;
     font-family: monospace;
     padding-top: 15px;
+}
+
+.links:hover {
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    transition: 0.5s;
 }
 
 .personalgoal {
