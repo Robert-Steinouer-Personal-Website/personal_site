@@ -159,8 +159,11 @@ body {
 .container {
     display: flex;
     border: 15px double black;
+    margin: 150px;
+    padding: 20px;
     background-color: mediumaquamarine;
     font-family: monospace;
+    justify-content: center;
 }
 
 .vname {
