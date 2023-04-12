@@ -7,9 +7,10 @@ h1{
 .name {
     float: left;
     padding-top: 15px;
-    font-size: 25px;
-    font-family: monospace;
+    font-size: 35px;
+    font-family: brush script MT, cursive;
     padding-left: 40px;
+    margin-bottom: 25px;
 }
 
 .links {
@@ -17,7 +18,7 @@ h1{
     position: absolute;
     font-size: 25px;
     font-family: monospace;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 .links:hover {
