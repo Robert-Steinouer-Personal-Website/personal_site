@@ -29,11 +29,13 @@ h1{
 
 .personalgoal {
     text-align: center;
+    padding-top: 50px;
     font-family: monospace;
 }
 
 .quote {
     text-align: center;
+    padding-top: 50px;
     font-family: monospace;
 }
 
