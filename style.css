@@ -33,7 +33,7 @@ h1{
     font-family: monospace;
 }
 
-.hobby1 {
+.hobby {
     text-align: center;
     border: 5px solid black;
     width: 1000px;
@@ -42,35 +42,7 @@ h1{
     background-color: mediumaquamarine;
 }
 
-.hobby2 {
-    text-align: center;
-    border: 5px solid black;
-    width: 1000px;
-    margin: auto;
-    margin-top: 25px;
-    background-color: mediumaquamarine;
-}
-
-.hobby3 {
-    text-align: center;
-    border: 5px solid black;
-    width: 1000px;
-    margin: auto;
-    margin-top: 25px;
-    background-color: mediumaquamarine;
-}
-
-.hobbytitle1 {
-    font-family: monospace;
-    font-size: 25px;
-}
-
-.hobbytitle2 {
-    font-family: monospace;
-    font-size: 25px;
-}
-
-.hobbytitle3 {
+.hobbytitle {
     font-family: monospace;
     font-size: 25px;
 }
@@ -114,20 +86,11 @@ h1{
 }
 
 
-.project1name {
+.projectname {
     font-family: monospace;
     text-align: center;
 }
 
-.project2name {
-    font-family: monospace;
-    text-align: center;
-}
-
-.project3name {
-    font-family: monospace;
-    text-align: center;
-}
 
 .project2 {
     border: 5px groove black;
