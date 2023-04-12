@@ -53,6 +53,7 @@ h1{
     border: 5px solid black;
     width: 1000px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -61,6 +62,7 @@ h1{
     border: 5px solid black;
     width: 1000px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -163,7 +165,7 @@ body {
     border: 5px solid black;
     width: 1000px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 150px;
     background-color: mediumaquamarine;
 }
 
