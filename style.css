@@ -151,17 +151,18 @@ body {
 }
 
 .contacth {
-    font-size: 30px;
+    font-size: 45px;
+    font-family: brush script MT, cursive;
 }
 
 .vname {
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 10px;
     font-size: 25px;
 }
 
 .vemail {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     font-size: 25px;
 }
 
