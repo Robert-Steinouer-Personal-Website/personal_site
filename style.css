@@ -21,8 +21,9 @@ h1{
 }
 
 .links:hover {
+    content: '';
     letter-spacing: 0.15em;
-    text-transform: uppercase;
+    text-transform: capitalize;
     transition: 0.5s;
 }
 
@@ -84,7 +85,7 @@ h1{
 
 .projectt {
     font-family: monospace;
-    font-size: 50px;   
+    font-size: 40px;   
 }
 
 .project1 {
@@ -160,6 +161,7 @@ body {
     border: 5px solid black;
     width: 1000px;
     margin: auto;
+    margin-top: 50px;
     background-color: mediumaquamarine;
 }
 
