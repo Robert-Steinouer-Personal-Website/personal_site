@@ -27,13 +27,7 @@ h1{
     background-color: greenyellow;
 }
 
-.personalgoal {
-    text-align: center;
-    padding-top: 50px;
-    font-family: monospace;
-}
-
-.quote {
+.personalquote {
     text-align: center;
     padding-top: 50px;
     font-family: monospace;
@@ -97,6 +91,7 @@ h1{
     border: 5px groove black;
     width: 850px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
