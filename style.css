@@ -14,22 +14,26 @@ h1{
 
 .links {
     float: left;
+    position: absolute;
     font-size: 25px;
     font-family: monospace;
-    padding-top: 15px;
+    margin-top: 50px;
 }
 
-.personalgoal {
+.links:hover {
+    content: '';
+    transform: skew(-20deg);
+    transition: 0.25s;
+    background-color: greenyellow;
+}
+
+.personalquote {
     text-align: center;
+    padding-top: 50px;
     font-family: monospace;
 }
 
-.quote {
-    text-align: center;
-    font-family: monospace;
-}
-
-.hobby1 {
+.hobby {
     text-align: center;
     border: 5px solid black;
     width: 1000px;
@@ -38,46 +42,28 @@ h1{
     background-color: mediumaquamarine;
 }
 
-.hobby2 {
-    text-align: center;
-    border: 5px solid black;
-    width: 1000px;
-    margin: auto;
-    background-color: mediumaquamarine;
-}
-
-.hobby3 {
-    text-align: center;
-    border: 5px solid black;
-    width: 1000px;
-    margin: auto;
-    background-color: mediumaquamarine;
-}
-
-.hobbytitle1 {
+.hobbytitle {
     font-family: monospace;
     font-size: 25px;
 }
 
-.hobbytitle2 {
+.ap {
     font-family: monospace;
-    font-size: 25px;
-}
-
-.hobbytitle3 {
-    font-family: monospace;
+    padding: 25px;
     font-size: 25px;
 }
 
 .projectt {
     font-family: monospace;
-    font-size: 50px;   
+    font-size: 40px;  
+    margin-top: 125px
 }
 
 .project1 {
     border: 5px groove black;
     width: 850px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -96,29 +82,21 @@ h1{
 .portpara {
     padding-left: 25px;
     font-family: monospace;
-    font-size: 25px
+    font-size: 25px;
 }
 
 
-.project1name {
+.projectname {
     font-family: monospace;
     text-align: center;
 }
 
-.project2name {
-    font-family: monospace;
-    text-align: center;
-}
-
-.project3name {
-    font-family: monospace;
-    text-align: center;
-}
 
 .project2 {
     border: 5px groove black;
     width: 800px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -126,6 +104,7 @@ h1{
     border: 5px groove black;
     width: 800px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -137,7 +116,7 @@ body {
     border: 25px double black;
     width: 1000px;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 150px;
     background-color: mediumaquamarine;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -147,6 +126,7 @@ body {
     border: 5px solid black;
     width: 1000px;
     margin: auto;
+    margin-top: 150px;
     background-color: mediumaquamarine;
 }
 
@@ -158,20 +138,42 @@ body {
 
 .container {
     display: flex;
+    position: relative;
     border: 15px double black;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
     background-color: mediumaquamarine;
     font-family: monospace;
+    justify-content: center;
+}
+
+.contacth {
+    font-size: 30px;
 }
 
 .vname {
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 25px;
 }
 
 .vemail {
     padding-bottom: 10px;
+    font-size: 25px;
 }
 
 .vmessages {
     padding-bottom: 10px;
+    font-size: 25px;
+    resize: none;
+}
+
+.submitb {
+    padding-top: 15px;
+}
+
+@media screen {
+    
 }
