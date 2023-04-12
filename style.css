@@ -14,10 +14,10 @@ h1{
 
 .links {
     float: left;
-    position: relative;
+    position: absolute;
     font-size: 25px;
     font-family: monospace;
-    padding-top: 15px;
+    margin-top: 50px;
 }
 
 .links:hover {
