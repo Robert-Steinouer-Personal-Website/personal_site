@@ -22,9 +22,9 @@ h1{
 
 .links:hover {
     content: '';
-    letter-spacing: 0.15em;
-    text-transform: capitalize;
-    transition: 0.5s;
+    transform: skew(-20deg);
+    transition: 0.25s;
+    background-color: greenyellow;
 }
 
 .personalgoal {
