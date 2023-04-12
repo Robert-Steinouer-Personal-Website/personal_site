@@ -171,8 +171,11 @@ body {
 
 .container {
     display: flex;
+    position: relative;
     border: 15px double black;
-    margin: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 20px;
     background-color: mediumaquamarine;
     font-family: monospace;
