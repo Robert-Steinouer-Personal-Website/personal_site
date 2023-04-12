@@ -89,7 +89,8 @@ h1{
 
 .projectt {
     font-family: monospace;
-    font-size: 40px;   
+    font-size: 40px;  
+    margin-top: 125px
 }
 
 .project1 {
@@ -137,6 +138,7 @@ h1{
     border: 5px groove black;
     width: 800px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
@@ -144,6 +146,7 @@ h1{
     border: 5px groove black;
     width: 800px;
     margin: auto;
+    margin-top: 25px;
     background-color: mediumaquamarine;
 }
 
